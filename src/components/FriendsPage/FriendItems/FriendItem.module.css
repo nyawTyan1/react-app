@@ -1,0 +1,16 @@
+.friendItemContainer {
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+.friendItemImg{
+    height: 50px;
+    width: 50px;
+
+    border-radius: 50%;
+}
+
+.friendItemName {
+    margin-top: 0;
+    text-align: left;
+}

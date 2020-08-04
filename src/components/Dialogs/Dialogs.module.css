@@ -1,0 +1,34 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.dialogItems {
+    margin: 50px;
+}
+
+.dialogTitle {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.dialogItem {
+    margin-top: 10px;
+}
+
+.messagesTitle {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.messagesItems {
+    margin: 50px;
+}
+
+.messageAdd {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

@@ -1,0 +1,31 @@
+.content {
+    background-color: pink;
+
+    grid-column: 2/3;
+    grid-row: 2;
+}
+
+.profbg {
+    width: 900px;
+    height: 150px;
+}
+
+.profimg {
+    height: 120px;
+    margin-right: 40px;
+}
+
+.profileData {
+    display: inline-block;
+}
+
+.profileContainer{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.profileName {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 30px;
+}

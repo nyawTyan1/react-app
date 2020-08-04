@@ -1,0 +1,39 @@
+nav {
+    grid-area: n;
+    background-color: blue;
+    padding: 30px;
+
+    text-align: center;
+
+    float: left;
+
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.link {
+    margin-top: 20px;
+    
+    display: block;
+
+    text-decoration: none;
+    color: #fff;
+};
+
+.active {
+    color: black;
+}
+
+.friends {
+    color: white;
+    text-decoration: none;
+    margin-top: 60px;
+}
+
+.sideBarFriendsElements {
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0;
+    margin: 0;
+}

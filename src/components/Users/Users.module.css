@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.userImg {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.userFullname {
+    font-weight: 700;
+}

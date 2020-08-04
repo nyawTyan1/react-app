@@ -1,0 +1,31 @@
+div {
+    display: block;
+    margin-right: 30px;
+}
+
+.postContainer {
+    padding: 0;
+    margin: 20px;
+    display: block;  
+    border: 1px solid white;
+    background-color: #fff;
+}
+
+.items {
+    display: inline;
+}
+
+.like {
+    color: teal;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.item {
+    border: 1px solid wheat;
+    background-color: wheat;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 0;
+}

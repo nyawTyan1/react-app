@@ -1,0 +1,28 @@
+.posts {
+    
+}
+
+.item {
+    color: aliceblue;
+    display: block;
+}
+
+.myPosts {
+    display: block;
+}
+
+.newPost {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.newPostText {
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.newPostAdmin {
+    margin: 0 auto;
+}
