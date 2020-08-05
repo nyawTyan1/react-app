@@ -1,6 +1,5 @@
 .content {
-    background-color: pink;
-
+    width: 100%;
     grid-column: 2/3;
     grid-row: 2;
 }
@@ -13,10 +12,9 @@
 .profimg {
     height: 120px;
     margin-right: 40px;
-}
-
-.profileData {
-    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 1px solid black;
 }
 
 .profileContainer{
@@ -28,4 +26,5 @@
     font-weight: 700;
     display: block;
     margin-bottom: 30px;
+    margin-top: 10px;
 }
